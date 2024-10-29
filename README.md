@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 👯
 
-<!--
-**evelin188/evelin188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Evelin Camila 
 
-Here are some ideas to get you started:
+- Estou estudando a Alura
+- Estou desenvolvendo na linguagem JavaScrit
+- Estou usando esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo: email
+
+  evelin_ayla@outlook.pt
+
+   @eve.linbernardo
+
+![](https://media1.tenor.com/m/yxJMBojiXjMAAAAC/slide-bye.gif)
+  
